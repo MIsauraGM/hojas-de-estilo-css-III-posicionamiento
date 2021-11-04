@@ -4,4 +4,4 @@ Posicionamiento
 
 Visibilidad
 
-Medidas relativas
+Medidas relativas y absolutas y viewport
