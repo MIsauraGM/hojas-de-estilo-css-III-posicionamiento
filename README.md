@@ -1,8 +1,7 @@
 # Hojas de estilo III - Posicionamiento y medidas
 
-## Posicionamiento
-**1. Dado el fichero position.html modifica los valores y prueba el comportamiento de las diferentes propiedades.**
+**1. Dado el fichero ej1-position.html modifica los valores y prueba el comportamiento de las diferentes propiedades.**
 
-Visibilidad
+**2. Dado el fichero ej2-measure.html y su fichero ej2-resultado.png realiza los cambios necesarios en el CSS.**
 
-Medidas relativas y absolutas y viewport
+
